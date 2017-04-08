@@ -1,0 +1,24 @@
+{
+  "name": "eos",
+  "version": "0.0.1",
+  "description": "operating system for elisa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinkabellelisa/eos.git"
+  },
+  "keywords": [
+    "elisa",
+    "operating",
+    "system"
+  ],
+  "author": "Liyakhath Asif",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinkabellelisa/eos/issues"
+  },
+  "homepage": "https://github.com/tinkabellelisa/eos#readme"
+}
