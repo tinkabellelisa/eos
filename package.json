@@ -1,5 +1,5 @@
 {
-  "name": "eos",
+  "name": "@tinkabellelisa/eos",
   "version": "0.0.1",
   "description": "operating system for elisa",
   "main": "index.js",
